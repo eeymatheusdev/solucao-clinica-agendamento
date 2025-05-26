@@ -1,1 +1,0 @@
-# solucao-clinica-agendamento
